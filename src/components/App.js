@@ -1,6 +1,6 @@
 import React from 'react';
 import Footer from './Footer';
-import Jumbotron from './Jumbotron';
+import Jumbotron from '../containers/Jumbotron';
 import AddTodo from '../containers/AddTodo';
 import VisibleTodoList from '../containers/VisibleTodoList';
 import UndoRedo from '../containers/UndoRedo';
